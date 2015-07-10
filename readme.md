@@ -11,6 +11,6 @@ In this tutorial, you create a fully functional employee directory application w
 
 Complete instructions for this tutorial are available here: http://coenraets.org/blog/phonegap-tutorial/.
 
-I have created a example Phonegap Build busing the latest PhoneGap Online Builder - Easy and Efficient.
+I have created a Sample Phonegap Build using the latest PhoneGap Online Builder - Easy and Efficient.
 No more installations issues and compilation issues:
 Download : https://build.phonegap.com/apps/1541838/share
