@@ -10,3 +10,7 @@ In this tutorial, you create a fully functional employee directory application w
 - To complete this tutorial, all you need is a code editor, a modern browser, and a connection to the Internet. A working knowledge of HTML and JavaScript is assumed, but you don’t need to be a JavaScript guru.
 
 Complete instructions for this tutorial are available here: http://coenraets.org/blog/phonegap-tutorial/.
+
+I have created a exmaple Phonegap Build busing the latest PhoneGap Online Builder - Easy and Efficient.
+No more installations issues and compilation issues:
+Download : https://build.phonegap.com/apps/1541838/share
