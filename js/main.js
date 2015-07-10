@@ -15,8 +15,20 @@ var app = {
 
     initialize: function() {
         this.store = new MemoryStore(function() {
-            app.showAlert('Store Initialized', 'Info');
+            app.renderHomeView();
         });
+        $('.search-key').on('keyup', $.proxy(this.findByName, this));
+    },
+
+    renderHomeView: function() {
+        var html =
+            "<div class='header'><h1>Employee Search:</h1></div>" +
+                "<div class='search-view'>" +
+                "<label>Search: <input class='search-key'/></label>" +
+                "<ul class='employee-list'></ul>" +
+                "</div>" +
+                "<footer class='footer'>&copy; 2015 Regards Austin</footer>";
+        $('body').html(html);
         $('.search-key').on('keyup', $.proxy(this.findByName, this));
     },
 

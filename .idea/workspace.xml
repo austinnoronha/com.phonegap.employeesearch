@@ -4,10 +4,13 @@
     <list default="true" id="643e601b-9a71-4a8f-850d-d60e6d2736eb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="com.phonegap.employeesearch.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="643e601b-9a71-4a8f-850d-d60e6d2736eb" time="1436504763919" ignored="false" />
+    <file path="/main.js" changelist="643e601b-9a71-4a8f-850d-d60e6d2736eb" time="1436505179771" ignored="false" />
+    <file path="/styles.css" changelist="643e601b-9a71-4a8f-850d-d60e6d2736eb" time="1436505119045" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +33,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="14" selection-start="556" selection-end="556" vertical-scroll-proportion="-8.5">
+            <state line="9" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="-5.8846154">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="192" column="125" selection-start="4047" selection-end="4047" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -39,7 +51,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="713" selection-end="713" vertical-scroll-proportion="0.620438">
+            <state line="18" column="31" selection-start="614" selection-end="614" vertical-scroll-proportion="0.46532845">
               <folding />
             </state>
           </provider>
@@ -63,6 +75,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
@@ -129,6 +143,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.phonegap.employeesearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com.phonegap.employeesearch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,14 +266,21 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="14" selection-start="556" selection-end="556" vertical-scroll-proportion="-8.5">
+        <state line="9" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="-5.8846154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="192" column="125" selection-start="4047" selection-end="4047" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="713" selection-end="713" vertical-scroll-proportion="0.620438">
+        <state line="18" column="31" selection-start="614" selection-end="614" vertical-scroll-proportion="0.46532845">
           <folding />
         </state>
       </provider>
