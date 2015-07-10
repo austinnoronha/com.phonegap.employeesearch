@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="643e601b-9a71-4a8f-850d-d60e6d2736eb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/EmployeeView.js" afterPath="$PROJECT_DIR$/js/EmployeeView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/namedconfig.xml" afterPath="$PROJECT_DIR$/namedconfig.xml" />
     </list>
     <ignored path="com.phonegap.employeesearch.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,10 +66,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="6" selection-start="857" selection-end="857" vertical-scroll-proportion="0.8787879">
+            <state line="29" column="6" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="namedconfig.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/namedconfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="109" selection-start="2428" selection-end="2428" vertical-scroll-proportion="0.030303031">
               <folding />
             </state>
           </provider>
@@ -101,6 +107,7 @@
         <option value="$PROJECT_DIR$/js/EmployeeView.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/namedconfig.xml" />
       </list>
     </option>
   </component>
@@ -385,7 +392,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="6" selection-start="857" selection-end="857" vertical-scroll-proportion="0.8787879">
+        <state line="29" column="6" selection-start="857" selection-end="857" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namedconfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="109" selection-start="2428" selection-end="2428" vertical-scroll-proportion="0.030303031">
           <folding />
         </state>
       </provider>
